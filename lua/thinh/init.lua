@@ -1,6 +1,5 @@
 require("thinh.set")
 require("thinh.remap")
-
 require("thinh.lazy_init")
 
 -- DO.not
